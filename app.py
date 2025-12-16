@@ -23,7 +23,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Title
-st.title("🚗 Automotive Agentic AI System")
+st.title("Automotive Agentic AI System")
 st.markdown("### Master-Worker Architecture Prototype")
 st.divider()
 

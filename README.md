@@ -10,7 +10,7 @@ A "Show and Tell" prototype demonstrating a **Master-Worker Agent Architecture**
 *   **Streamlit** (Frontend & State Management)
 *   **Pandas & NumPy** (Data Simulation)
 ## 🚀 Getting Started
-### Prerequisites
+### Prerequisite
 *   Python 3.8+
 ### Installation
 1.  Clone the repository:
